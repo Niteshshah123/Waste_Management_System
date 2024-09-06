@@ -73,7 +73,7 @@ F.Contributers
   
 G.Future Enhancements
 
-Mobile Integration: Develop a mobile app for users to track their disposal counts and rewards.
-Advanced Recognition: Improve facial recognition accuracy with AI models.
-Scalability: Expand the system to larger areas or other institutions and even in the public areas.
+- Mobile Integration: Develop a mobile app for users to track their disposal counts and rewards.
+- Advanced Recognition: Improve facial recognition accuracy with AI models.
+- Scalability: Expand the system to larger areas or other institutions and even in the public areas.
 
