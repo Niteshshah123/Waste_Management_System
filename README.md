@@ -21,7 +21,7 @@
   
 A.Technologies Required:
 
-The project uses a combination of hardware, software, and cloud technologies:
+This project uses a combination of hardware, software, and cloud technologies:
 1. Hardware Requirements
 - Camera: High-definition cameras for still image capture.
 - Raspberry Pi: Microcontroller for connecting and controlling the camera.
