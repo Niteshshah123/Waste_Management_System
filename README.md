@@ -18,7 +18,9 @@
 - Usage
 - Contributing
 - Future Enhancements
-A. Technologies Required
+  
+A.Technologies Required:
+
 The project uses a combination of hardware, software, and cloud technologies:
 1. Hardware Requirements
 - Camera: High-definition cameras for still image capture.
@@ -34,30 +36,44 @@ The project uses a combination of hardware, software, and cloud technologies:
 - AWS Lambda / Google Cloud Functions / Azure Functions: For serverless image processing.
 - AWS Rekognition / Google Vision API / Azure Face API: For facial recognition.
 - MySQL / Cloud SQL / Azure SQL Database: For tracking user data and disposal counts.
+  
 B. System Architecture
+
 The system consists of sensors that detect waste disposal, a camera that captures the individual’s photo, and a cloud-based backend that processes images for facial recognition, stores data, and manages the reward system.
+
 C. Data Flow:
+
 - Image Capture: Camera takes a photo when a sensor detects waste disposal.
 - Processing: Images are sent to the cloud for facial recognition and data logging.
 - Storage: Processed data and images are securely stored in cloud databases.
 - Reward System: Users who meet the disposal count are recognized and rewarded.
+
 D. Installation Guide
+
 - Prerequisites: Ensure Python, necessary libraries (OpenCV, Dlib), and cloud SDKs are installed.
 - Setup Camera and Sensors: Connect the hardware components to Raspberry Pi.
 - Cloud Configuration: Set up cloud storage, databases, and serverless functions.
 - Run the Application: Start the main script to begin capturing and processing images.
+
 E.Usage
+
 - Operational Flow: The system runs automatically, capturing images and processing data.
 - Viewing Data: Use the backend dashboard (Flask/Django) to view user data, disposal counts, and rewards.
-  
+ 
 F.Contributers
-We welcome contributions to enhance the functionality of this project. Feel free to fork the repository, make changes, and submit a pull request.
+  
+  We welcome contributions to enhance the functionality of this project. Feel free to fork the repository, make changes, and submit a pull request.
+    
 ## Authors
-[ Shudarshan Regmi](https://github.com/ShudarsanRegmi)
-[Sahil Gupta]()
-[Nitesh Shah](https://github.com/Niteshshah123)
 
-Future Enhancements
+  [ Shudarshan Regmi](https://github.com/ShudarsanRegmi)<br>
+  [Sahil Gupta]()<br>
+  [Nitesh Shah](https://github.com/Niteshshah123)<br>
+  [Richa Jaishwal](https://github.com/richajaishwal0)<br>
+  
+G.Future Enhancements
+
 Mobile Integration: Develop a mobile app for users to track their disposal counts and rewards.
 Advanced Recognition: Improve facial recognition accuracy with AI models.
 Scalability: Expand the system to larger areas or other institutions and even in the public areas.
+
