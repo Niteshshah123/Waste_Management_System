@@ -67,7 +67,6 @@ F.Contributers
 ## Authors
 
   [ Shudarshan Regmi](https://github.com/ShudarsanRegmi)<br>
-  [Sahil Gupta]()<br>
   [Nitesh Shah](https://github.com/Niteshshah123)<br>
   [Richa Jaishwal](https://github.com/richajaishwal0)<br>
   
